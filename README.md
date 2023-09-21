@@ -6,26 +6,26 @@
 下面展示仓库状态统计的设置，需要把username修改成自己的GitHub名字。通过给url增加参数的形式，可以设置theme主题内容；更多详细内容可以参考README.md参考文档的GitHub Stats Card介绍。
 
  复制代码 隐藏代码
-![](https://github-readme-stats.vercel.app/api?username=你的Github用户名e&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=thenmoe&show_icons=true&theme=transparent)
 3.3、主页访问量统计
 注意需要将url中的wisdom-zhe换成自己用户名
 
  复制代码 隐藏代码
-![Visitor Count](https://profile-counter.glitch.me/你的Github用户名/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/thenmo/count.svg)
 在这里插入图片描述
 
 3.4、常用语言占比统计
 注意需要将username换成自己用户名
 
  复制代码 隐藏代码
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的Github用户名&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenmo&layout=compact&theme=tokyonight)
 在这里插入图片描述
 
 3.5、Github活动统计图
 更多活动统计图主题
 
  复制代码 隐藏代码
-![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=thenmo&theme=dracula)
 在这里插入图片描述
 
 3.6、一些常用的标签设计网址
