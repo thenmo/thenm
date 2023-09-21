@@ -6,7 +6,7 @@
 下面展示仓库状态统计的设置，需要把username修改成自己的GitHub名字。通过给url增加参数的形式，可以设置theme主题内容；更多详细内容可以参考README.md参考文档的GitHub Stats Card介绍。
 
  复制代码 隐藏代码
-![](https://github-readme-stats.vercel.app/api?username=thenmoe&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=thenmo&show_icons=true&theme=transparent)
 3.3、主页访问量统计
 注意需要将url中的wisdom-zhe换成自己用户名
 
